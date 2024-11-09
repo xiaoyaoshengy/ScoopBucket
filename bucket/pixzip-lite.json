@@ -22,5 +22,6 @@
                 "url": "https://github.com/xiaoyaoshengy/pixzip-lite/releases/download/v$version/PixZip.Lite-$version-win-x64.7z"
             }
         }
-    }
+    },
+    "notes": "Some data are stored in %APPDATA%/pixzip-lite."
 }
