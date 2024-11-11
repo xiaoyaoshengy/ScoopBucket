@@ -1,12 +1,12 @@
 {
-    "version": "3.2.0.1",
+    "version": "3.2.0.2",
     "description": "Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建。",
     "homepage": "https://github.com/xiaoyaoshengy/pixzip-lite",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xiaoyaoshengy/pixzip-lite/releases/download/v3.2.0.1/PixZip.Lite-3.2.0.1-win-x64.7z",
-            "hash": "143dbd8d879f6b15d22f2760211716a86adbbe19bd47b32f326ae0fad826c16e"
+            "url": "https://github.com/xiaoyaoshengy/pixzip-lite/releases/download/v3.2.0.2/PixZip.Lite-3.2.0.2-win-x64.7z",
+            "hash": "28413f270e0959b7a6218e15200d055aa2c0a5dfa41229cfb2a18f0734d9b510"
         }
     },
     "shortcuts": [
