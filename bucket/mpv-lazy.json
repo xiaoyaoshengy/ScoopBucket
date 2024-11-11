@@ -27,5 +27,6 @@
                 "url": "https://github.com/hooke007/MPV_lazy/releases/download/$version/mpv-lazy-$version.exe#/dl.7z"
             }
         }
-    }
+    },
+    "notes": "说明文档: https://github.com/hooke007/MPV_lazy/discussions/194; 注册文件关联请参考说明文档，卸载时记得取消关联"
 }
