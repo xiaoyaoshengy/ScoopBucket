@@ -14,9 +14,11 @@ scoop bucket add sb https://github.com/xiaoyaoshengy/ScoopBucket
 scoop install sb/<manifestname>
 ```
 
-## How do I contribute new manifests?
-
-To make a new manifest contribution, please read the [Contributing
-Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md)
-and [App Manifests](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifests)
-wiki page.
+## Apps
+| Apps | Descriptions |
+| :---: | :--- |
+| [ClickExpert](https://github.com/bcl-dev/ClickExpert) | 简单便捷的点击器 |
+| [MPV-Lazy](https://github.com/hooke007/MPV_lazy) | 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config |
+| [PicaComic](https://github.com/Pacalini/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
+| [PixZip-lite](https://github.com/xiaoyaoshengy/pixzip-lite) | Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建 |
+| [Reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️ Demo服务器由于未备案已被关停，建议自行搭建 |
