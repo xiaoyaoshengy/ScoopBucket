@@ -24,7 +24,7 @@
         }
     },
     "post_uninstall": [
-        "echo \"Now you can remove your data in %APPDATA%/pixzip-lite.\""
+        "Write-Output \"\"; Write-Warning \"Now you can remove your data in %APPDATA%/pixzip-lite.\""
     ],
     "notes": "Some data are stored in %APPDATA%/pixzip-lite."
 }
