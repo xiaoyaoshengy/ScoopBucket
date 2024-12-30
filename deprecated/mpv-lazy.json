@@ -28,5 +28,5 @@
             }
         }
     },
-    "notes": "说明文档: https://github.com/hooke007/MPV_lazy/discussions/194; 注册文件关联请参考说明文档，卸载时记得取消关联"
+    "notes": "说明文档: https://github.com/hooke007/MPV_lazy/discussions/194; 注册文件关联请参考说明文档，卸载时记得取消关联; !!!由于作者会对 portable-config 进行更新，因此不再维护此配置!!!"
 }
