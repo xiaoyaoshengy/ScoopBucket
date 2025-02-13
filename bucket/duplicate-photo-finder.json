@@ -25,9 +25,8 @@
         }
     },
     "persist": [
-        "cache",
-        "thumb",
-        "DuplicatePhotoFinder.exe.config"
+        "DuplicatePhotoFinder.exe.config",
+        "DuplicatePhotoFinder64.exe.config"
     ],
     "checkver": "当前发布版本：([\\d.]+)",
     "autoupdate": {
