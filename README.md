@@ -22,5 +22,4 @@ scoop install sb/<manifestname>
 | [PixZip-lite](https://github.com/xiaoyaoshengy/pixzip-lite) | Easy to use batch image compression software. Powered by Svelte 5 🧡 Electron. 简单易用的批量图片压缩软件，使用 Svelte 5、Electron 构建 |
 | [Reader](https://github.com/hectorqin/reader) | 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️ Demo服务器由于未备案已被关停，建议自行搭建 |
 | [Simple Mindmap](https://github.com/wanglin2/mind-map) | 一个还算强大的Web思维导图。 |
-| [Duplicate Photo Finder](http://www.newrain.cn/app/info/1) | 新雨相似图片查找助手 |
 | [InputTip](https://github.com/abgox/InputTip) | 一个输入法状态实时提示工具。An input method status tip tool. |

@@ -31,5 +31,5 @@
     "autoupdate": {
         "url": "http://www.newrain.cn/app/DuplicatePhotoFinder$version.zip"
     },
-    "notes": ".NET Framework 4.0+ is required."
+    "notes": ".NET Framework 4.0+ is required. It is deprecated because there is something wrong running on Windows 11."
 }
